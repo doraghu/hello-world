@@ -1,2 +1,4 @@
 # hello-world
-sample program
+Hi All,
+
+I am going to learning how to paly with GitHub.
