@@ -1,1 +1,19 @@
-Adding a first file tp project
+Clone Git Project Steps:
+
+1) git config --global user.name "username"
+
+2) git config --global user.email emailid
+
+3) git clone github-url
+
+4) Change to project folder
+
+5) create a file in project folder
+
+6) git add noteFile.txt
+
+7) check git status
+
+8) git commit -m "Adding Steps" noteFile.txt
+
+9) git push -u origin master 
